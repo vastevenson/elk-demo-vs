@@ -1,0 +1,6 @@
+timestamp,log_level,message
+2022-01-07T08:00:00,INFO,System startup
+2022-01-07T08:15:00,WARN,Low disk space
+2022-01-07T08:30:00,ERROR,Database connection error
+2022-01-07T08:45:00,DEBUG,Processing request
+2022-01-07T09:00:00,INFO,User login successful
